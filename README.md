@@ -4,7 +4,7 @@ Techi, big fan of Python, React,  IoT , Arduino platform.  Interested in data sc
 
 ## Connect with me
 <div id="badges">
-  <a href="www.linkedin.com/in/marcin-włodarczyk-bb58a9234">
+  <a href="https://www.linkedin.com/in/marcin-włodarczyk-bb58a9234">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/MarcinWloda">
