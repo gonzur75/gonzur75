@@ -1,7 +1,11 @@
 ## Hi there 👋
 
 Techi, big fan of Python, React,  IoT , Arduino platform.  Interested in data science, regenerative farming, and permaculture . Likes challenges, thinking outside the box, designing practical solutions to given problem. 
-
+## Working on 🔭
+- Backend developer in Azeno IT:
+  -  Our mission is to provide a complete e-learning platform for coding, at lowest possible price for the end user. 
+- E-squirel 
+  - My own project that will allow my household to take advantage of both our own solar system and upcoming dynamic tarifs, by controlling our het storage tank and providing information of when it is cheapest to use electricity.  
 ## Connect with me
 <div id="badges">
   <a href="https://www.linkedin.com/in/marcin-włodarczyk-bb58a9234">
