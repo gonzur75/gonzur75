@@ -2,8 +2,9 @@
 
 Techi, big fan of Python, React,  IoT , Arduino platform.  Interested in data science, regenerative farming, and permaculture . Likes challenges, thinking outside the box, designing practical solutions to given problem. 
 ## Working on 🔭
-- Backend developer in Azeno IT:
-  -  Our mission is to provide a complete e-learning platform for coding, at lowest possible price for the end user. 
+- Cohort learning style program in Top Heads
+  Program: MLOps, Data Engineer, Data Scientist CourseMLOps, Data Engineer, Data Scientist Course Oct 2024 - Feb 2026Oct 2024 - Feb 2026
+  Comprehensive training in machine learning, data science and big data analysis using Python
 - E-squirell 
   - My own project that will allow my household to take advantage of both our own solar system and upcoming dynamic tarifs, by controlling our het storage tank and providing information of when it is cheapest to use electricity.  
 ## Connect with me
